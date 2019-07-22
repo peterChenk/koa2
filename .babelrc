@@ -1,0 +1,8 @@
+{
+  "presets": ["stage-0", "es2015", "latest", "react"],
+  "plugins": [
+    "transform-runtime",
+	"transform-decorators-legacy",
+	"transform-class-properties"
+  ]
+}
